@@ -1,0 +1,6 @@
+{
+  "name": "BuildMind Admin Control Center",
+  "description": "BuildMind Sri Lanka - AI-assisted residential architectural planning admin control center for staff, homeowner assignments, 2D plan pipelines, rates, and approvals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
